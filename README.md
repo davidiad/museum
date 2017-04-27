@@ -1,2 +1,2 @@
-# museum
-a virtual reality museum
+### museum
+Udacity VR Nanodegree – a virtual reality museum.
